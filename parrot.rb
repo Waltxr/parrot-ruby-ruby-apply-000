@@ -2,9 +2,9 @@
 # returns the phrase
 
 
-def parrot(phrase)
-  phrase = "Squawk!"
-  puts phrase
+def parrot(string)
+  string = "Squawk!"
 
-  return phrase
+  puts string
+  return string
 end
